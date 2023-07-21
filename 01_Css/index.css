@@ -1,0 +1,31 @@
+h1{
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+p{
+   color: rgb(120, 11, 9) !important;
+}
+
+/* id selecotr */
+#id1{
+    background-color: rgb(220, 227, 194);
+    color: brown;
+}
+
+/* class selector */
+.paraClass{
+    background-color: aquamarine;
+
+}
+
+/* Group selector */
+
+p,article{
+    width: 1260px;
+}
+p.paraClass{
+    text-align: center;
+}
